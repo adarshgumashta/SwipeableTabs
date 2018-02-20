@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Swipeable Tabs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sportsfragment">Sports</string>
+    <string name="politicsfragment">Politics</string>
+    <string name="technologiesfragment">Technologies</string>
+    <string name="musicfragment">Music</string>
+    <string name="moviesfragment">Movies</string>
+    <string name="historyfragment">History</string>
+    <string name="designfragment">Design</string>
+</resources>
